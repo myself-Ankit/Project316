@@ -1,0 +1,3 @@
+[submodule "Deadlock-toolkit"]
+	path = Deadlock-toolkit
+	url = https://github.com/Chetan42Rock/Deadlock-toolkit.git
